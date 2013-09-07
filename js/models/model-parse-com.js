@@ -1,8 +1,9 @@
-Parse.initialize("3lJfd4T87rxDvs34BJcXEjO7tbJLAyQ4cN3XSwCv", "WInG2A7UMnpzeCH51SXB0pecsWWtmOKvjXyolLUm");
+//Parse.initialize("3lJfd4T87rxDvs34BJcXEjO7tbJLAyQ4cN3XSwCv", "WInG2A7UMnpzeCH51SXB0pecsWWtmOKvjXyolLUm");
+Parse.initialize("UCqtLR5TBGZtV2k7KciAOUfEnVKq2oELILorVhnU", "WDTaW419om6ILrRIlKOLnsBFI0FbvUv1L92u22Ad");
 
 directory.Employee = Parse.Object.extend({
 
-    className: "employees",
+    className: "Employee",
 
     initialize: function() {
         this.reports = new directory.ReportsCollection();
