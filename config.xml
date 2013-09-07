@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.coenraets.employeedirectory"
+        id        = "org.coenraets.backbone"
         versionCode="10"
         version   = "1.1.0">
 
@@ -10,7 +10,7 @@
     <name>Backbone Bootstrap</name>
 
     <description>
-        A simple employee directory application with backbone & bootstrap
+        A simple employee directory application with backbone and bootstrap
     </description>
 
     <author href="http://coenraets.org" email="ccoenraets@gmail.com">
